@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**cristianvaz/cristianvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## &#x1f4c8; GitHub Stats
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/cristianvaz/cristianvaz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianvaz&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+
+<a href="https://github.com/cristianvaz/cristianvaz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianvaz&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianvaz&color=green&style=plastic" alt="cristianvaz" /> </p>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cristianvaz&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
