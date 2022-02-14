@@ -12,7 +12,3 @@
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianvaz&color=green&style=plastic" alt="cristianvaz" /> </p>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cristianvaz&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
